@@ -127,3 +127,35 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+test2.py
+test.py
+terraform/terraform-mutant-finder-database-deploy/.terraform.lock.hcl
+terraform/terraform-mutant-finder-database-deploy/terraform.tfstate
+terraform/terraform-mutant-finder-database-deploy/terraform.tfstate.backup
+terraform/terraform-mutant-finder-deploy/.terraform.lock.hcl
+terraform/terraform-mutant-finder-deploy/terraform.tfstate
+terraform/terraform-mutant-finder-deploy/terraform.tfstate.backup
+terraform/terraform-mutant-finder-namespaces/.terraform.lock.hcl
+terraform/terraform-mutant-finder-namespaces/terraform.tfstate
+terraform/terraform-mutant-finder-namespaces/terraform.tfstate.backup
+terraform/terraform-mutant-finder-namespaces/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.5.0/linux_amd64/terraform-provider-kubernetes_v2.5.0_x5
+terraform/terraform-mutant-finder-namespaces/.terraform/providers/registry.terraform.io/hashicorp/aws/3.62.0/linux_amd64/terraform-provider-aws_v3.62.0_x5
+terraform/terraform-mutant-finder-deploy/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.5.0/linux_amd64/terraform-provider-kubernetes_v2.5.0_x5
+terraform/terraform-mutant-finder-deploy/.terraform/providers/registry.terraform.io/hashicorp/aws/3.61.0/linux_amd64/terraform-provider-aws_v3.61.0_x5
+terraform/terraform-mutant-finder-database-deploy/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.5.0/linux_amd64/terraform-provider-kubernetes_v2.5.0_x5
+terraform/terraform-mutant-finder-database-deploy/.terraform/providers/registry.terraform.io/hashicorp/aws/3.61.0/linux_amd64/terraform-provider-aws_v3.61.0_x5
+terraform/terraform-mutant-finder-eks-cluster/.terraform.lock.hcl
+terraform/terraform-mutant-finder-eks-cluster/terraform.tfstate
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/hashicorp/aws/3.62.0/linux_amd64/terraform-provider-aws_v3.62.0_x5
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/hashicorp/cloudinit/2.2.0/linux_amd64/terraform-provider-cloudinit_v2.2.0_x5
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.5.0/linux_amd64/terraform-provider-kubernetes_v2.5.0_x5
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/hashicorp/local/2.1.0/linux_amd64/terraform-provider-local_v2.1.0_x5
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/hashicorp/null/3.1.0/linux_amd64/terraform-provider-null_v3.1.0_x5
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/hashicorp/random/3.1.0/linux_amd64/terraform-provider-random_v3.1.0_x5
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/terraform-aws-modules/http/2.4.1/linux_amd64/CHANGELOG.md
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/terraform-aws-modules/http/2.4.1/linux_amd64/LICENSE
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/terraform-aws-modules/http/2.4.1/linux_amd64/README.md
+terraform/terraform-mutant-finder-eks-cluster/.terraform/providers/registry.terraform.io/terraform-aws-modules/http/2.4.1/linux_amd64/terraform-provider-http_v2.4.1
+terraform/terraform-mutant-finder-deploy/java_pid264437.hprof
+terraform/terraform-mutant-finder-deploy/java_pid384111.hprof
+terraform/terraform-mutant-finder-eks-cluster/.terraform/modules/modules.json
